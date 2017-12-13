@@ -97,7 +97,7 @@ MonoBehaviour:
       logMin: -8
       logMax: 4
   bloom:
-    m_Enabled: 1
+    m_Enabled: 0
     m_Settings:
       bloom:
         intensity: 0.5
@@ -122,15 +122,15 @@ MonoBehaviour:
       basic:
         postExposure: 0
         temperature: 0
-        tint: 0
+        tint: -2
         hueShift: 0
-        saturation: 1
-        contrast: 1
+        saturation: 0.98
+        contrast: 0.95
       channelMixer:
-        red: {x: 1, y: 0, z: 0}
-        green: {x: 0, y: 1, z: 0}
-        blue: {x: 0, y: 0, z: 1}
-        currentEditingChannel: 0
+        red: {x: 1.02, y: 0, z: 0}
+        green: {x: -0.08, y: 0.98, z: 0}
+        blue: {x: 0, y: 0, z: 0.8}
+        currentEditingChannel: 1
       colorWheels:
         mode: 1
         log:
