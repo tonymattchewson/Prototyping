@@ -51,19 +51,9 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-     <Compile Include="Assets\GUI Animator\GUI Animator FREE\Demo (JavaScript)\Scripts\GA_FREE_JS_Demo00.js" />
-     <Compile Include="Assets\GUI Animator\GUI Animator FREE\Demo (JavaScript)\Scripts\GA_FREE_JS_Demo01.js" />
-     <Compile Include="Assets\GUI Animator\GUI Animator FREE\Demo (JavaScript)\Scripts\GA_FREE_JS_Demo02.js" />
-     <Compile Include="Assets\GUI Animator\GUI Animator FREE\Demo (JavaScript)\Scripts\GA_FREE_JS_Demo03.js" />
-     <Compile Include="Assets\GUI Animator\GUI Animator FREE\Demo (JavaScript)\Scripts\GA_FREE_JS_Demo04.js" />
-     <Compile Include="Assets\GUI Animator\GUI Animator FREE\Demo (JavaScript)\Scripts\GA_FREE_JS_Demo05.js" />
-     <Compile Include="Assets\GUI Animator\GUI Animator FREE\Demo (JavaScript)\Scripts\GA_FREE_JS_Demo06.js" />
-     <Compile Include="Assets\GUI Animator\GUI Animator FREE\Demo (JavaScript)\Scripts\GA_FREE_JS_Demo07.js" />
-     <Compile Include="Assets\GUI Animator\GUI Animator FREE\Demo (JavaScript)\Scripts\GA_FREE_JS_Demo08.js" />
-     <Compile Include="Assets\GUI Animator\GUI Animator FREE\Demo (JavaScript)\Scripts\GA_FREE_JS_DemoPlaySound.js" />
-     <Compile Include="Assets\GUI Animator\GUI Animator FREE\Demo (JavaScript)\Scripts\GA_FREE_JS_OpenOtherScene.js" />
+     <Compile Include="Assets\cha_data\Script\CharaView.js" />
      <None Include="Assets\PostProcessing\Resources\Shaders\DepthOfField.shader" />
-     <None Include="Assets\Fantasy Skybox FREE\Readme.txt" />
+     <None Include="Assets\Imported Assets\Fantasy Skybox FREE\Readme.txt" />
      <None Include="Assets\PostProcessing\Resources\Shaders\MotionBlur.cginc" />
      <None Include="Assets\PostProcessing\Resources\Shaders\Fog.shader" />
      <None Include="Assets\PostProcessing\Editor Resources\Monitors\ParadeRender.shader" />
@@ -79,18 +69,22 @@
      <None Include="Assets\PostProcessing\Resources\Shaders\Uber.shader" />
      <None Include="Assets\PostProcessing\Resources\Shaders\Blit.shader" />
      <None Include="Assets\PostProcessing\Editor Resources\Monitors\WaveformRender.shader" />
-     <None Include="Assets\Fantasy Skybox FREE\Fog and Ambient reference.txt" />
+     <None Include="Assets\Imported Assets\Fantasy Skybox FREE\Fog and Ambient reference.txt" />
      <None Include="Assets\PostProcessing\Editor Resources\Monitors\VectorscopeCompute.compute" />
      <None Include="Assets\PostProcessing\Resources\Shaders\FXAA3.cginc" />
      <None Include="Assets\PostProcessing\Resources\Shaders\MotionBlur.shader" />
      <None Include="Assets\PostProcessing\Resources\Shaders\AmbientOcclusion.shader" />
+     <None Include="Assets\Standard Assets\ParticleSystems\Shaders\PriorityParticleAlpha.shader" />
      <None Include="Assets\PostProcessing\Resources\Bluenoise64\LICENSE.txt" />
      <None Include="Assets\PostProcessing\Resources\Shaders\BuiltinDebugViews.shader" />
+     <None Include="Assets\Imported Assets\MedievalTownExteriors\Readme.txt" />
+     <None Include="Assets\Standard Assets\ParticleSystems\ParticleSystemsGuidelines.txt" />
      <None Include="Assets\PostProcessing\Resources\Shaders\Common.cginc" />
      <None Include="Assets\PostProcessing\Resources\Bluenoise64\COPYING.txt" />
      <None Include="Assets\Standard Assets\Fonts\OpenSans\License!.txt" />
      <None Include="Assets\PostProcessing\Editor Resources\UI\Trackball.shader" />
      <None Include="Assets\Standard Assets\CrossPlatformInput\CrossPlatformInputGuidelines.txt" />
+     <None Include="Assets\Standard Assets\ParticleSystems\Shaders\PriorityParticleAddSoft.shader" />
      <None Include="Assets\PostProcessing\Resources\Shaders\Bloom.cginc" />
      <None Include="Assets\PostProcessing\Resources\Shaders\TAA.shader" />
      <None Include="Assets\PostProcessing\Resources\Shaders\EyeHistogram.compute" />
@@ -101,16 +95,14 @@
      <None Include="Assets\PostProcessing\Resources\Shaders\DiskKernels.cginc" />
      <None Include="Assets\PostProcessing\Resources\Shaders\DepthOfField.cginc" />
      <None Include="Assets\PostProcessing\Resources\Shaders\ScreenSpaceRaytrace.cginc" />
-     <None Include="Assets\GUI Animator\GUI Animator FREE\Readme.txt" />
      <None Include="Assets\PostProcessing\Resources\Shaders\Bloom.shader" />
      <None Include="Assets\Standard Assets\Characters\ThirdPersonCharacter\ThirdPersonCharacterGuidelines.txt" />
-     <None Include="Assets\GE Common Assets\Readme.txt" />
-     <None Include="Assets\GUI Animator\GUI Animator FREE\!How to.txt" />
      <None Include="Assets\PostProcessing\Editor Resources\Monitors\VectorscopeRender.shader" />
      <None Include="Assets\PostProcessing\Resources\Shaders\EyeAdaptation.shader" />
      <None Include="Assets\Standard Assets\Characters\FirstPersonCharacter\FirstPersonCharacterGuidelines.txt" />
      <None Include="Assets\PostProcessing\Resources\Shaders\ColorGrading.cginc" />
      <None Include="Assets\Standard Assets\Characters\RollerBall\RollerBallGuidelines.txt" />
+     <None Include="Assets\Standard Assets\ParticleSystems\Shaders\PriorityParticleAdd.shader" />
      <None Include="Assets\PostProcessing\Resources\Shaders\AmbientOcclusion.cginc" />
      <None Include="Assets\PostProcessing\Editor Resources\Monitors\WaveformCompute.compute" />
  <Reference Include="UnityEngine.UI">
@@ -139,12 +131,6 @@
  </Reference>
  <Reference Include="UnityEngine.SpatialTracking">
  <HintPath>E:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/UnitySpatialTracking/RuntimeEditor/UnityEngine.SpatialTracking.dll</HintPath>
- </Reference>
- <Reference Include="GETween">
- <HintPath>E:/Documents/unity/Prototyping/Assets/GUI Animator/Common/Plugins/GETween.dll</HintPath>
- </Reference>
- <Reference Include="GUIAnimatorFREE">
- <HintPath>E:/Documents/unity/Prototyping/Assets/GUI Animator/GUI Animator FREE/Plugins/GUIAnimatorFREE.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.Analytics">
  <HintPath>C:/Users/user/AppData/LocalLow/Unity/cache/packages/packages.unity.com/com.unity.analytics@1.0.1/UnityEngine.Analytics.dll</HintPath>
