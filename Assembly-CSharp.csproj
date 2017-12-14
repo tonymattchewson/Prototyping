@@ -54,6 +54,7 @@
      <Compile Include="Assets\Imported Assets\Nature Pack\Standard Assets\Utility\CurveControlledBob.cs" />
      <Compile Include="Assets\Imported Assets\Nature Pack\Standard Assets\Utility\FOVKick.cs" />
      <Compile Include="Assets\Imported Assets\Nature Pack\Standard Assets\Utility\LerpControlledBob.cs" />
+     <Compile Include="Assets\Imported Assets\Water Flow FREE\Scripts\WaterFlowFREEDemo.cs" />
      <Compile Include="Assets\PostProcessing\Runtime\Attributes\GetSetAttribute.cs" />
      <Compile Include="Assets\PostProcessing\Runtime\Attributes\MinAttribute.cs" />
      <Compile Include="Assets\PostProcessing\Runtime\Attributes\TrackballAttribute.cs" />
@@ -122,6 +123,7 @@
      <None Include="Assets\PostProcessing\Resources\Shaders\ACES.cginc" />
      <None Include="Assets\PostProcessing\Resources\Shaders\UberSecondPass.cginc" />
      <None Include="Assets\PostProcessing\Resources\Shaders\Tonemapping.cginc" />
+     <None Include="Assets\Imported Assets\SimpleSky\ReadMe.txt" />
      <None Include="Assets\PostProcessing\Editor Resources\Monitors\HistogramCompute.compute" />
      <None Include="Assets\PostProcessing\Resources\Shaders\Uber.shader" />
      <None Include="Assets\PostProcessing\Resources\Shaders\Blit.shader" />
@@ -131,6 +133,7 @@
      <None Include="Assets\PostProcessing\Resources\Shaders\FXAA3.cginc" />
      <None Include="Assets\PostProcessing\Resources\Shaders\MotionBlur.shader" />
      <None Include="Assets\PostProcessing\Resources\Shaders\AmbientOcclusion.shader" />
+     <None Include="Assets\Imported Assets\Water Flow FREE\Shaders\Water Flow FREE Simple.shader" />
      <None Include="Assets\Standard Assets\ParticleSystems\Shaders\PriorityParticleAlpha.shader" />
      <None Include="Assets\PostProcessing\Resources\Bluenoise64\LICENSE.txt" />
      <None Include="Assets\PostProcessing\Resources\Shaders\BuiltinDebugViews.shader" />
@@ -146,6 +149,7 @@
      <None Include="Assets\PostProcessing\Resources\Shaders\TAA.shader" />
      <None Include="Assets\PostProcessing\Resources\Shaders\EyeHistogram.compute" />
      <None Include="Assets\PostProcessing\Resources\Shaders\TAA.cginc" />
+     <None Include="Assets\Imported Assets\SimpleFX\Materials\UnlitVertexColour_Alpha.shader" />
      <None Include="Assets\PostProcessing\Resources\Shaders\EyeAdaptation.cginc" />
      <None Include="Assets\PostProcessing\Resources\Shaders\GrainGen.shader" />
      <None Include="Assets\PostProcessing\Resources\Shaders\FXAA.shader" />
