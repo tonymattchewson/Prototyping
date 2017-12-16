@@ -105,6 +105,7 @@
      <Compile Include="Assets\Resources\EnemyHealth.cs" />
      <Compile Include="Assets\Resources\FloatingText.cs" />
      <Compile Include="Assets\Resources\Health.cs" />
+     <Compile Include="Assets\Resources\MouseOrbitImproved.cs" />
      <Compile Include="Assets\Resources\PatrolScript.cs" />
      <Compile Include="Assets\Resources\PopupTextController.cs" />
      <Compile Include="Assets\Resources\PopupTextController1.cs" />
